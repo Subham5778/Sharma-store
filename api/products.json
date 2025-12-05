@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "category": "Computer",
+        "brand": "Apple",
+        "price": 78999.00,
+        "stock": 12,
+        "description": "Mac book have Retina Display with 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Space Grey",
+        "image": "../image/laptop.png"
+    },
+    
+
+    
+    {
+        "id": 2,
+        "name": "Smartphone",
+        "category": "Mobiles",
+        "brand": "Apple",
+        "price": 78999.00,
+        "stock": 64,
+        "description": "iphone15s Super Retina XDR display, 15.54 cm / 6.1″ (diagonal), all‑screen OLED display,12MP camera, ƒ/1.9 aperture, Autofocus with, Focus Pixels, Retina Flash, Photonic Engine, Deep Fusion, Smart HDR 5Advanced dual-camera system: 48MP Main,12MP Ultra Wide, 12MP 2x Telephoto (enabled by quad-pixel sensor), 2x optical zoom in, 2x optical zoom out; 4x optical zoom range Digital zoom up to 10x, Smart HDR 5.",
+        "image": "../image/iphone.jpg"
+
+
+    },
+    {
+        "id": 3,
+        "name": "Smartphone",
+        "category": "Mobiles",
+        "brand": "Samsung",
+        "price": 139999.00,
+        "stock": 45,
+        "description": "Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 512GB Storage) with 200mp backcamera",
+        "image": "../image/Samsung.webp"
+    },
+    {
+        "id": 4,
+        "name": "Headphone",
+        "category": "Headphone",
+        "brand": "Sony",
+        "price": 12990.00,
+        "stock": 50,
+        "description": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones,loud sound , dolbi surround",
+        "image": "../image/Sony.webp"
+    },
+    {
+        "id": 5,
+        "name": "SoundBox",
+        "category": "Speaker",
+        "brand": "Sony",
+        "price": 68999.00,
+        "stock": 78,
+        "description": "Jet Bass Booster :Feel the beat at Long distance with Jet Bass Booster Speaker Light : Enjoy an authentic or festival atmosphere with speaker light Karaoke/Guitar Input: Karaoke & Guitar Input to unlease your inner POP StaBluetooth & NFC connectivity :One touch wireless listening with NFC and Bluetooth",
+        "image": "../image/Sonyy.png"
+    },
+    {
+        "id": 6,
+        "name": "airpods",
+        "category": "earbuds",
+        "brand": "Apple",
+        "price": 23490.00,
+        "stock": 75,
+        "description": "airpods play Battery Life: Up to 6 hours of listening time with a single charge,Active Noise Cancellation and Transparency mode.",
+        "image": "../image/airopods.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Tab",
+        "category": "Tablet",
+        "brand": "Hp",
+        "price": 92099.00,
+        "stock": 112,
+        "description": "HP Pavilion 35.6 cm x360 2-in-1 Laptop 14-ek1021TU - Silver 13th Generation Intel® Core™ i7 processor Windows 11 Home 35.6 cm (14) diagonal, FHD IPS touchscreen display with Intel® Iris® Xᵉ Graphics 16 GB  ",
+        "image": "../image/tablet.avif"
+    },
+    {
+        "id": 8,
+        "name": "Keyboard",
+        "category": "Keyboard",
+        "brand": "Hp",
+        "price": 3500.00,
+        "stock": 156,
+        "description": "MSI INTERCEPTOR DS4200 GAMING WIRED US KEYBOARD | S11-04US22 , Backlight , Low letency    ",
+        "image": "../image/keyboard.png"
+    },
+    {
+        "id": 9,
+        "name": "Camera",
+        "category": "Camera",
+        "brand": "Hp",
+        "price": 75099.00,
+        "stock": 132,
+        "description": "Canon EOS R50 Mirrorless Camera with RF-S18-45mm f/4.5-6.3 is STM Lens & RF-S55-210mm f/5-7.1 is STM Telephoto Zoom Lens Kit    ",
+        "image": "../image/camera.jpeg"
+    }
+
+    
+    
+
+]
